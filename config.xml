@@ -2,13 +2,13 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/2.9"
 	id		= "com.phonegap.ace.ams"
-	versionCode = "1313" 
-	version 	= "1.1.10">
+	versionCode = "1413" 
+	version 	= "1.1.11">
 
-	<name>World-Cup 2015 Schedule</name>
+	<name>World-Cup : 2015 Schedule</name>
 
 	<description>
-		World-Cup 2015 Schedule
+		World-Cup : 2015 Schedule
 	</description>
 
 	<author href="http://www.aceindia.com"
