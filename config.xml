@@ -2,8 +2,8 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/2.9"
 	id		= "com.phonegap.ace.ams"
-	versionCode = "613" 
-	version 	= "1.1.3">
+	versionCode = "713" 
+	version 	= "1.1.4">
 
 	<name>World Cup 2015 Schedule</name>
 
