@@ -156,7 +156,7 @@
 		<div data-role="header" data-theme="z">		 
 			<div id="dt2" class="ui-btn-left"></div><h2><b>ICC World Cup 2015 Schedule</b></h2><br>&nbsp;
 			<div id="filter" align='center'>
-				<select id="countryName">
+				<select id="countryName" onchange="getCountrySchedule()">
 					<option value='All'>ALL</option>
 					<option value='Afghanistan'>Afghanistan</option>
 					<option value='Australia'>Australia</option>
@@ -173,7 +173,6 @@
 					<option value='West Indies'>West Indies</option>
 					<option value='Zimbabwe'>Zimbabwe</option>
 				</select>
-				<input id="getCtySch" type="submit" value="Select Country" onclick="getCountrySchedule()" />
 			</div>
 			</div>
 		<div data-role="header" class="ui-grid-z6" data-theme="c">
